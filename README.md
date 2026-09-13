@@ -1,4 +1,4 @@
-## 某双非本科的计算机专业学生，并无特长，平平无奇。
+## Ending。
 
 <!--
 **syouwoi/syouwoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
